@@ -1,6 +1,6 @@
 import { pool as db } from "../db";
 
-
+//добавим комментарий
 class api_user_words_table {
   // Table users
   async getUserWords(user_id : number) {
